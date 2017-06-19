@@ -1,0 +1,13 @@
+$ pip3 install tensorflow
+#######
+$ python3
+import tensorflow as tf
+ModuleNotFoundError: No module named 'tensorflow'
+
+and then
+$ pip install tensorflow
+######
+$python3
+import tensorflow as tf
+#pass
+
